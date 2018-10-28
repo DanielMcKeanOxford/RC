@@ -1,0 +1,81 @@
+﻿@model IEnumerable<RecordCollection.Models.Artist>
+
+@{
+    ViewBag.Title = "Artists";
+}
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>@ViewBag.Title</h2>
+            <table id="js-artist-table" class="table js-row-click-table">
+                <tr>
+                    <th></th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.AverageScore)
+                    </th>
+                    <th>
+                        Number of Albums
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.ActionLink("Artist", "ArtistOverview", new { id = item.Name }, new { @class = "js-row-click" })
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AverageScore)%
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Count)
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $(".js-row-click-table tbody tr").addClass("js-wholeRowClick");
+        $("tr.js-wholeRowClick").click(function () {
+            var link = $(".js-row-click", this);
+            var sel = getSelection().toString();
+            if (link) {
+                if (!sel) {
+                    if (link.attr("href"))
+                        location.href = link.attr("href");
+                    else {
+                        link.removeClass("js-row-click");
+                        link.click();
+                    }
+                }
+            }
+        });
+    });
+
+
+    //function addRowHandlers() {
+    //    var table = document.getElementById("js-table");
+    //    var rows = table.getElementsByTagName("tr");
+    //    for (i = 0; i < rows.length; i++) {
+    //        var currentRow = table.rows[i];
+    //        var createClickHandler = function (row) {
+    //            return function () {
+    //                var cell = row.getElementsByTagName("td")[0];
+    //                var id = cell.innerHTML;
+    //                alert("id:" + id);
+    //            };
+    //        };
+    //        currentRow.onclick = createClickHandler(currentRow);
+    //    }
+    //}
+</script>

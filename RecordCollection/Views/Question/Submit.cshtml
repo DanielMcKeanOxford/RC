@@ -1,0 +1,30 @@
+﻿@model IEnumerable<RecordCollection.Models.Question>
+
+@{
+    ViewBag.Title = "Submit";
+}
+<div class="container quiz-container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Quiz</h2> @ViewBag.Percentage
+            @{ 
+
+                int questionCounter = 0;
+                foreach (var item in Model)
+                {
+                    questionCounter++;
+                    <div class="question-item">
+                        <div class="question-item-wrapper">
+                            <p class="form-label p--large"><span class="question__question-no">@questionCounter) @Html.DisplayFor(modelItem => item.QuestionName)</span><b> - @ViewData[item.Id.ToString()]</b></p>
+                            <div class="question-item__indicator"><i class="fa question__indicator-icon fa-2x"></i></div>
+                        </div>
+                        <div>
+                            <p>@ViewData[string.Format("{0}-SelectedAnswer", item.Id)]</p>
+                            <p>@ViewData[string.Format("{0}-RightAnswer", item.Id)]</p>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

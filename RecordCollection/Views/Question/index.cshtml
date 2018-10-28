@@ -1,0 +1,38 @@
+﻿@model IEnumerable<RecordCollection.Models.Question>
+
+@{
+    ViewBag.Title = "index";
+}
+<div class="container quiz-container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Quiz</h2> @ViewBag.Percentage
+            @using (Html.BeginForm("Submit", "Question", FormMethod.Post))
+            {
+
+                int questionCounter = 0;
+                foreach (var item in Model)
+                {
+                    questionCounter++;
+                    <div class="question-item">
+                        <div class="question-item-wrapper">
+                            <p class="form-label p--large"><span class="question__question-no">@questionCounter) @Html.DisplayFor(modelItem => item.QuestionName)</span></p>
+                            <div class="question-item__indicator"><i class="fa question__indicator-icon fa-2x"></i></div>
+                        </div>
+                        <div class="question-item__radio-wrapper">
+
+                            @foreach (var choice in item.QuestionChoices)
+                            {
+                                @Html.RadioButton("" + item.Id + "", Html.DisplayFor(c => choice.Key), new { id = "question:" + @questionCounter + "-choice:" + Html.DisplayFor(c => choice.Key) + "" + ViewData[string.Format("{0}-{1}_Checked", item.Id, choice.Key)] });
+                                @*<input type="radio" name="question:@questionCounter" data-score="@Html.DisplayFor(c => choice.Key)" id="question:@questionCounter-choice:@Html.DisplayFor(c => choice.Key)" value="@Html.DisplayFor(c => choice.Value)">*@
+                                    <label for="question:@questionCounter-choice:@Html.DisplayFor(c => choice.Key)" class="question-item__radio-label">@Html.DisplayFor(c => choice.Value)</label><br>
+                            }
+                        </div>
+                        @ViewData[item.Id.ToString()]
+                    </div>
+                }
+                <input type="submit" value="Submit" class="btn" />
+            }
+        </div>
+    </div>
+</div>

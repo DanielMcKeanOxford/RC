@@ -1,0 +1,196 @@
+﻿@model RecordCollection.Models.Artist
+
+@{
+    ViewBag.Title = "Artist Overview";
+}
+
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>@Model.Name</h2>
+            <span style="display: block;">@Model.Count album(s) in collection</span>
+            <div style="height: 220px; margin: 0 0 45px; text-align: center;">
+                <div class="album-overview-heading"><span>Average Rating</span></div>
+                <div id="container-speed" style="display: inline-block; width: 300px; height: 200px;"></div>
+            </div>
+            <div style="width: 100%">
+                <div class="album-overview-heading" style="text-align: center; margin-bottom: 15px;"><span>Albums</span></div>
+                @foreach (var album in Model.GetAlbumsForArtist())
+            {
+                var d = album.RatingPercentage;
+                var albumTitle = @Html.Raw(HttpUtility.HtmlDecode(album.AlbumTitle));
+                    <text><div style="display: inline-block; height: 300px; margin: 0;">
+                            <div id="container-speed-@album.AlbumTitle" style="display: inline-block; width : 270px; height: 250px; float: left"></div>
+                            <span class="album-overview-producer-summary" style="clear: both; display: block; font-size: 12px;">Producer: @album.Producer</span>
+                        </div>
+                        <script>
+                            var gaugeOptions = {
+                                chart: {
+                                    type: 'solidgauge',
+                                    margin: 40
+                                },
+                                title: null,
+                                pane:
+                                {
+                                    center: ['50%', '50%'],
+                                    size: '100%',
+                                    startAngle: 0,
+                                    endAngle: 360,
+                                    background:
+                                    {
+                                        backgroundColor: (Highcharts.theme && Highcharts.theme.background2) || '#EEE',
+                                        innerRadius: '60%',
+                                        outerRadius: '100%',
+                                        shape: 'arc'
+                                    }
+                                },
+                                tooltip:
+                                {
+                                    enabled: false
+                                },
+                                exporting: {
+                                    enabled: false
+                                },
+                                // the value axis
+                                yAxis:
+                                {
+                                    stops: [
+                                        [0.1, '#55BF3B'], // green
+                                        [0.5, '#DDDF0D'], // yellow
+                                        [0.9, '#DF5353'] // red
+                                    ],
+                                    lineWidth: 0,
+                                    minorTickInterval: null,
+                                    tickAmount: 2,
+                                    title: {
+                                        y: -60
+                                    },
+                                    labels: {
+                                        y: 16
+                                    }
+                                },
+                                plotOptions: {
+                                    solidgauge: {
+                                        dataLabels: {
+                                            y: -25,
+                                            borderWidth: 0,
+                                            useHTML: true
+                                        }
+                                    }
+                                }
+                            };
+                            var chartSpeed = Highcharts.chart("container-speed-@albumTitle", Highcharts.merge(gaugeOptions, {
+                                yAxis: {
+                                    min: 0,
+                                    max: 100,
+                                    showLastLabel: false,
+                                    showFirstLabel: false,
+                                    title: {
+                                        text: "@albumTitle - @album.YearOfRelease",
+                                        verticalAlign: 'top'
+                                    },
+                                },
+                                credits: {
+                                    enabled: false
+                                },
+                                series: [{
+                                    name: "@albumTitle",
+                                    data: [@d],
+                                    dataLabels: {
+                                        format: '<div style="text-align:center"><span style="font-size:25px;">{y}</span><br/>' +
+                                               '<span style=" font-size:12px;color:silver">%</span></div>'
+                                    }
+                                }]
+                            })
+                            );
+                        </script>
+                    </text>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var gaugeOptions = {
+
+        chart: {
+            type: 'solidgauge'
+        },
+
+        title: null,
+
+        pane: {
+            center: ['50%', '85%'],
+            size: '140%',
+            startAngle: -90,
+            endAngle: 90,
+            background: {
+                backgroundColor: (Highcharts.theme && Highcharts.theme.background2) || '#EEE',
+                innerRadius: '60%',
+                outerRadius: '100%',
+                shape: 'arc'
+            }
+        },
+
+        tooltip: {
+            enabled: false
+        },
+        exporting: {
+            enabled: false
+        },
+        // the value axis
+        yAxis: {
+            stops: [
+                [0.1, '#55BF3B'], // green
+                [0.5, '#DDDF0D'], // yellow
+                [0.9, '#DF5353'] // red
+            ],
+            lineWidth: 0,
+            minorTickInterval: null,
+            tickAmount: 2,
+            title: {
+                y: -70
+            },
+            labels: {
+                y: 16
+            }
+        },
+
+        plotOptions: {
+            solidgauge: {
+                dataLabels: {
+                    y: 5,
+                    borderWidth: 0,
+                    useHTML: true
+                }
+            }
+        }
+    };
+    var chartSpeed = Highcharts.chart('container-speed', Highcharts.merge(gaugeOptions, {
+        yAxis: {
+            min: 0,
+            max: 100
+            //title: {
+            //    text: 'Average Album Rating'
+            //}
+        },
+
+        credits: {
+            enabled: false
+        },
+
+        series: [{
+            name: '@Html.DisplayFor(model => model.AverageScore)',
+            data: [@Html.DisplayFor(model => model.AverageScore)],
+            dataLabels: {
+                format: '<div style="text-align:center"><span style="font-size:25px;color:' +
+                    ((Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black') + '">{y}</span><br/>' +
+                       '<span style="font-size:12px;color:silver">%</span></div>'
+            },
+            tooltip: {
+                valueSuffix: ' km/h'
+            }
+        }]
+
+    }));
+</script>

@@ -1,0 +1,25 @@
+﻿@{
+
+    ViewBag.Title = "Select Category";
+
+}
+
+@using (Html.BeginForm("Index", "Cd", FormMethod.Get))
+{
+
+    <fieldset>
+
+        Genre Type
+
+        @Html.DropDownList("GenreType")
+
+        <p>
+
+            <input type="submit" value="Submit" />
+
+        </p>
+
+    </fieldset>
+
+}
+

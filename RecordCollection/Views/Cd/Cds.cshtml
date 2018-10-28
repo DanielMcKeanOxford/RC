@@ -1,0 +1,110 @@
+﻿@model IEnumerable<RecordCollection.Models.Cd>
+
+@{
+    ViewBag.Title = "View";
+
+}
+
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Record Collection</h2>
+
+            <p>
+                @Html.ActionLink("Create New", "Create")
+            </p>
+            @Html.DropDownList("Genres", RecordCollection.Models.Cd.GetGenres(), "Select Gender", new { @class = "form-control", onchange = "selectByGenre();" })
+            <table class="table" id="Cd-Collection">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.AlbumTitle)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ArtistName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ArtistType)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Producer)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Gender)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Country)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.RecordCompanyName)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.RecordCompanyType)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.YearOfRelease)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Rating)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+            {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AlbumTitle)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ArtistName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ArtistType)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Producer)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Gender)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Country)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.RecordCompanyName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.RecordCompanyType)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.YearOfRelease)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Rating)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                                @Html.ActionLink("Details", "Details", new { artistName = item.ArtistName }) |
+                                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+    //function selectByGenre() {
+    //    var id = document.getElementById("Genres");
+    //}
+    $(document).ready(function () {
+        $("#Genres").change(function () {
+            var sg = $("#Genres Option:selected").text();
+            $("#Cd-Collection tr").AddClass("test");
+        })
+    })
+</script>
+

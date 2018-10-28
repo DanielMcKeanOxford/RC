@@ -1,0 +1,84 @@
+﻿@model IEnumerable<RecordCollection.Models.Chart>
+
+@{
+    ViewBag.Title = "By Decade";
+    var cd = Html.Raw(Json.Encode(ViewBag.ChartData));
+    var cd2 = cd.ToString().Replace("\"", "'");
+    cd2 = Html.Raw(Json.Decode(cd2));
+    var xData = Html.Raw(Json.Encode(ViewBag.XAxisData));
+    var xData2 = xData.ToString().Replace(",", "','");
+    xData2 = Html.Raw(Json.Decode(xData2));
+}
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            @*<h2>Albums by Decade</h2>
+            <p>
+                @Html.ActionLink("Cds by Genre", "Index")
+            </p>*@
+
+            <div id="hc-container" style="min-width: 350px; height: 450px; max-width: 10000px; margin: 0 auto"></div>
+        </div>
+    </div>
+</div>
+<script>
+    Highcharts.chart('hc-container', {
+
+        title: {
+            text: 'Cd Collection By Decade'
+        },
+        credits: {
+            enabled: false
+        },
+        yAxis: {
+            title: {
+                text: 'Number of Cds'
+            },
+            max: 75
+
+        },
+        legend: {
+            enabled: false
+        },
+
+        plotOptions: {
+            series: {
+                label: {
+                    connectorAllowed: false
+                },
+                cursor: 'pointer',
+                point: {
+                    events: {
+                        click: function () {
+                            location.href = '@Url.Action("Index", "Cd")' + "?Decade=" +
+                                this.name
+                        }
+                    }
+                },
+            },
+        },
+
+        series: [{
+            type: 'pie',
+            data: [@cd2],
+            name: 'Number'
+        }],
+        exporting: {
+            enabled: false
+        },
+        responsive: {
+            rules: [{
+                condition: {
+                    maxWidth: 500
+                },
+                chartOptions: {
+                    legend: {
+                        layout: 'horizontal',
+                        align: 'center',
+                        verticalAlign: 'bottom'
+                    }
+                }
+            }]
+        }
+
+    });</script>

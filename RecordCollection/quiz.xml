@@ -1,0 +1,68 @@
+<quiz>
+  <question>
+    <id>1</id>
+    <name>Which of the following albums was not produced by John Simon?</name>
+    <values>
+      <value code="1">The Band - Music From Big Pink</value>
+      <value code="2">Leonard Cohen - Songs of Leonard Cohen</value>
+      <value code="3">The Band - The Band</value>
+      <value code="4">The Band - Stage Fright</value>      
+    </values>
+    <answer code="4">The Band - Stage Fright</answer>
+  </question>
+  <question>
+    <id>2</id>
+    <name>Which of the following albums was not released on Atlantic Records?</name>
+    <values>
+      <value code="1">John Coltrane - A Love Supreme</value>
+      <value code="2">Led Zeppelin - Led Zeppelin II</value>
+      <value code="3">Herbie Hancock - Headhunters</value>
+      <value code="4">Ray Charles - The Genius of Ray Charles</value>      
+    </values>
+    <answer code="3">Herbie Hancock - Headhunters</answer>
+  </question>
+  <question>
+    <id>3</id>
+    <name>Which of the following albums was not released in the 21st century?</name>
+    <values>
+      <value code="1">NERD - Fly or Die</value>
+      <value code="2">Buena Vista Social Club - Buena Vista Social Club</value>
+      <value code="3">Blur - Parklife</value>
+      <value code="4">Ray LaMontagne- Til The Sun Turns Black</value>
+    </values>
+    <answer code="3">Blur - Parklife</answer>
+  </question>
+  <question>
+    <id>4</id>
+    <name>Which of the following artists did not write his own songs?</name>
+    <values>
+      <value code="1">Michael Jackson</value>
+      <value code="2">Elvis Presley</value>
+      <value code="3">Bob Dylan</value>
+      <value code="4">Nina Simone</value>
+    </values>
+    <value code="2">Elvis Presley</value>
+  </question>
+  <question>
+    <id>5</id>
+    <name>Which of the following artists was also credited for producing their own albums?</name>
+    <values>
+      <value code="1">Stevie Wonder</value>
+      <value code="2">Nina Simone</value>
+      <value code="3">Cat Power</value>
+      <value code="4">Rumer</value>
+    </values>
+    <value code="1">Stevie Wonder</value>
+  </question>
+  <question>
+    <id>6</id>
+    <name>Which of the following albums is of the Soul genre?</name>
+    <values>
+      <value code="1">Otis Redding - Otis Blue</value>
+      <value code="2">Isaac Hayes - Shaft</value>
+      <value code="3">Stevie Wonder - Innervisions</value>
+      <value code="4">All of the above</value>
+    </values>
+    <value code="4">All of the above</value>
+  </question>
+</quiz>

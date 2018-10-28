@@ -1,0 +1,89 @@
+﻿@model IEnumerable<RecordCollection.Models.Chart>
+
+@{
+    ViewBag.Title = "By Rating";
+    var xData = Html.Raw(Json.Encode(ViewBag.XAxisData));
+    var xData2 = xData.ToString().Replace(",", "','");
+    xData2 = Html.Raw(Json.Decode(xData2));
+    var chartData = ViewBag.ChartData;
+}
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            @*<h2>Albums by Rating</h2>
+            <p>
+                @Html.ActionLink("Cds by Genre", "Index")
+            </p>*@
+
+            <div id="container" style="min-width: 310px; height: 400px; max-width: 10000px; margin: 0 auto"></div>
+        </div>
+    </div>
+</div>
+<script>
+    Highcharts.chart('container', {
+
+        title: {
+            text: 'Cd Collection By Rating'
+        },
+        credits: {
+            enabled: false
+        },
+        exporting: {
+            enabled: false
+        },
+        xAxis: {
+            categories: [
+             '@xData2'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            title: {
+                text: 'Number of Cds'
+            },
+            max: 75
+
+        },
+        legend: {
+            enabled: false
+        },
+
+        plotOptions: {
+            series: {
+                label: {
+                    connectorAllowed: false
+                },
+                name: 'Number',
+                cursor: 'pointer',
+                point: {
+                    events: {
+                        click: function () {
+                            location.href = '@Url.Action("Index", "Cd")' + "?RatingNumber=" +
+                                this.category
+                        }
+                    }
+                }
+            }
+        },
+
+        series: [{
+            type: 'column',
+            data: [@ViewBag.ChartData]
+        }],
+
+        responsive: {
+            rules: [{
+                condition: {
+                    maxWidth: 500
+                },
+                chartOptions: {
+                    legend: {
+                        layout: 'horizontal',
+                        align: 'center',
+                        verticalAlign: 'bottom'
+                    }
+                }
+            }]
+        }
+
+    });</script>

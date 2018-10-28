@@ -1,0 +1,70 @@
+﻿@model IEnumerable<RecordCollection.Models.ProducerModel>
+
+@{
+    ViewBag.Title = "Producers";
+}
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Producers</h2>
+            <div class="select-form">
+                @using (Html.BeginForm("Index", "Producer", FormMethod.Post))
+            {
+
+                    <label>Find producers with selected number of albums or more</label>
+                    <fieldset>
+                        @*@Html.DropDownList("Count", RecordCollection.Models.ProducerModel.GetCount(), "Albums By Producer")*@
+                        @Html.DropDownList("NumberOfAlbums")
+                        <input type="submit" value="Go" class="btn select-btn" />
+                    </fieldset>
+                }
+            </div>
+            <table class="table">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        Average Percentage
+                    </th>
+                    <th>
+                        Album Count
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.AverageScore)%
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Count)
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+<script>
+    //function selectByGenre() {
+    //    var id = document.getElementById("Genres");
+    //}
+    $(document).ready(function () {
+        $("#Count").change(function () {
+            var sg = $("#Count Option:selected").text();
+
+            $.ajax({
+                url: '/Producer/Index',
+                type: "POST",
+                dataType: "JSON",
+                data: { selectedGenre: sg }
+            })
+        })
+    })
+</script>

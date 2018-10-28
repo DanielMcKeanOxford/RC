@@ -1,0 +1,3623 @@
+<CATALOG>
+  <CD>
+    <TITLE>Blood On The Tracks</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Dylan</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>    
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1975</YEAR>
+    <RATING>*****</RATING>    
+  </CD>
+  <CD>
+    <TITLE>Highway 61 Revisited</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Tom Wilson, Bob Johnston</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>       
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1965</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Time Out Of Mind</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Daniel Lanois</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1997</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Oh Mercy</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Daniel Lanois</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1989</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Times They Are a-Changin'</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Tom Wilson</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1964</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Bringing It All Back Home</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Tom Wilson</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1965</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Nashville Skyline</TITLE>
+    <ARTIST>
+      <NAME>Dylan, Bob</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Johnston</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Please Please Me</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1963</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>With The Beatles</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1963</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>A Hard Day's Night</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1964</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Help!</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1965</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Rubber Soul</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1965</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Revolver</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1966</YEAR>
+    <RATING>*****</RATING>
+  </CD> 
+  <CD>
+    <TITLE>Sgt Pepper's Lonely Hearts Club Band</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1967</YEAR>
+    <RATING>*****</RATING>
+  </CD> 
+  <CD>
+    <TITLE>Magical Mystery Tour</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1967</YEAR>
+    <RATING>****</RATING>
+  </CD> 
+  <CD>
+    <TITLE>The Beatles</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1968</YEAR>
+    <RATING>****</RATING>
+  </CD> 
+  <CD>
+    <TITLE>Abbey Road</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Apple</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Let It Be</TITLE>
+    <ARTIST>
+      <NAME>Beatles, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Martin, Phil Spector</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Parlophone</NAME>
+      <TYPE>Apple</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>****</RATING>
+  </CD> 
+  <CD>
+    <TITLE>Led Zeppelin I</TITLE>
+    <ARTIST>
+      <NAME>Led Zeppelin</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jimmy Page</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Led Zeppelin II</TITLE>
+    <ARTIST>
+      <NAME>Led Zeppelin</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jimmy Page</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Led Zeppelin III</TITLE>
+    <ARTIST>
+      <NAME>Led Zeppelin</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jimmy Page</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Led Zeppelin IV</TITLE>
+    <ARTIST>
+      <NAME>Led Zeppelin</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jimmy Page</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1971</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Physical Graffiti</TITLE>
+    <ARTIST>
+      <NAME>Led Zeppelin</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jimmy Page</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Swan Song</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1975</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Presence</TITLE>
+    <ARTIST>
+      <NAME>Led Zeppelin</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jimmy Page</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Swan Song</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1976</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>After The Goldrush</TITLE>
+    <ARTIST>
+      <NAME>Neil Young</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Neil Young, Elliot Mazer, Kendall Pacios</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>****</RATING>
+  </CD>
+   <CD>
+    <TITLE>Harvest</TITLE>
+    <ARTIST>
+      <NAME>Neil Young</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Neil Young, Elliot Mazer, Henry Lewy, Jack Nitzsche</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1972</YEAR>
+     <RATING>*****</RATING>
+   </CD>
+  <CD>
+    <TITLE>On The Beach</TITLE>
+    <ARTIST>
+      <NAME>Neil Young</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Neil Young, David Briggs</PRODUCER>       
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1974</YEAR>
+    <RATING>*****</RATING>
+  </CD>  
+  <CD>
+    <TITLE>Tonight's The Night</TITLE>
+    <ARTIST>
+      <NAME>Neil Young</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Briggs</PRODUCER>      
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1975</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Smiths</TITLE>
+    <ARTIST>
+      <NAME>Smiths, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>John Porter</PRODUCER>  
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Rough Trade</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>    
+    <YEAR>1984</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Meat is Murder</TITLE>
+    <ARTIST>
+      <NAME>Smiths, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>The Smiths</PRODUCER>  
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Rough Trade</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>    
+    <YEAR>1985</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Queen is Dead</TITLE>
+    <ARTIST>
+      <NAME>Smiths, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Johnny Marr, Morrissey</PRODUCER>    
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Rough Trade</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>    
+    <YEAR>1986</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Strangeways, Here We Come</TITLE>
+    <ARTIST>
+      <NAME>Smiths, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Johnny Marr, Morrissey, Stephen Street</PRODUCER>    
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie</GENRE>   
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Rough Trade</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>    
+    <YEAR>1987</YEAR>
+    <RATING>*****</RATING>    
+  </CD>
+  <CD>
+    <TITLE>Anthem of the Sun</TITLE>
+    <ARTIST>
+      <NAME>Grateful Dead, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Grateful Dead, David Hassinger</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1968</YEAR>
+    <RATING>N/A</RATING>
+  </CD>  
+  <CD>
+    <TITLE>Live Dead</TITLE>
+    <ARTIST>
+      <NAME>Grateful Dead, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Matthews, Betty Cantor, Grateful Dead</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>American Beauty</TITLE>
+    <ARTIST>
+      <NAME>Grateful Dead, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Grateful Dead, Steve Barncard</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Workingman's Dead</TITLE>
+    <ARTIST>
+      <NAME>Grateful Dead, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Matthews, Betty Cantor, Grateful Dead</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Notorious Byrd Brothers</TITLE>
+    <ARTIST>
+      <NAME>Byrds, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Gary Usher</PRODUCER>  
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1968</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Younger Than Yesterday</TITLE>
+    <ARTIST>
+      <NAME>Byrds, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Gary Usher</PRODUCER>    
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1967</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Music From Big Pink</TITLE>
+    <ARTIST>
+      <NAME>Band, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>John Simon</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Capitol</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1968</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Band</TITLE>
+    <ARTIST>
+      <NAME>Band, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>John Simon</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Capitol</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Stage Fright</TITLE>
+    <ARTIST>
+      <NAME>Band, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>The Band</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Capitol</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Northern Lights/Southern Cross</TITLE>
+    <ARTIST>
+      <NAME>Band, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>The Band</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Capitol</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1975</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>A Whole New Thing</TITLE>
+    <ARTIST>
+      <NAME>Sly and The Family Stone</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Sly Stone</PRODUCER>    
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1967</YEAR>
+    <RATING>****</RATING>
+  </CD>  
+  <CD>
+    <TITLE>Stand!</TITLE>
+    <ARTIST>
+      <NAME>Sly and The Family Stone</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Sly Stone</PRODUCER>    
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>phy
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>There's A Riot Goin' On</TITLE>
+    <ARTIST>
+      <NAME>Sly and The Family Stone</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Sly Stone</PRODUCER>  
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1971</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Fresh</TITLE>
+    <ARTIST>
+      <NAME>Sly and The Family Stone</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Sly Stone</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1973</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Small Talk</TITLE>
+    <ARTIST>
+      <NAME>Sly and The Family Stone</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Sly Stone</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1974</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Maggot Brain</TITLE>
+    <ARTIST>
+      <NAME>Funkadelic</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Clinton</PRODUCER>    
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Westbound</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>    
+    <YEAR>1971</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Standing on the Verge of Getting It On</TITLE>
+    <ARTIST>
+      <NAME>Funkadelic</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Clinton</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Westbound</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>    
+    <YEAR>1974</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>One Nation Under The Groove</TITLE>
+    <ARTIST>
+      <NAME>Funkadelic</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Clinton</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros.</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1978</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Music of My Mind</TITLE>
+    <ARTIST>
+      <NAME>Wonder, Stevie</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Stevie Wonder</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1972</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Talking Book</TITLE>
+    <ARTIST>
+      <NAME>Wonder, Stevie</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Stevie Wonder</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1972</YEAR>
+    <RATING>****</RATING>
+  </CD> 
+  <CD> 
+    <TITLE>Innervisions</TITLE>
+    <ARTIST>
+      <NAME>Wonder, Stevie</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Stevie Wonder</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1973</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Songs in the Key of Life</TITLE>
+    <ARTIST>
+      <NAME>Wonder, Stevie</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Stevie Wonder</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1976</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>What's Goin' On</TITLE>
+    <ARTIST>
+      <NAME>Gaye, Marvin</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Marvin Gaye</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1971</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Let's Get it On</TITLE>
+    <ARTIST>
+      <NAME>Gaye, Marvin</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Marvin Gaye</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1973</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Here, My Dear</TITLE>
+    <ARTIST>
+      <NAME>Gaye, Marvin</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Marvin Gaye</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Tamla</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1978</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Curtis</TITLE>
+    <ARTIST>
+      <NAME>Mayfield, Curtis</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Curtis Mayfield</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Curtom</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1970</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Roots</TITLE>
+    <ARTIST>
+      <NAME>Mayfield, Curtis</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Curtis Mayfield</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Curtom</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1971</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>The Great Ray Charles</TITLE>
+    <ARTIST>
+      <NAME>Charles, Ray</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Ahmet Ertegün, Jerry Wexler</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1957</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>The Genius of Ray Charles</TITLE>
+    <ARTIST>
+      <NAME>Charles, Ray</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Nesuhi Ertegün, Jerry Wexler</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1959</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Genius + Soul = Jazz</TITLE>
+    <ARTIST>
+      <NAME>Charles, Ray</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Ray Charles</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Impulse</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1961</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>The Genius Sings The Blues</TITLE>
+    <ARTIST>
+      <NAME>Charles, Ray</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Ahmet Ertegün, Jerry Wexler</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1961</YEAR>
+    <RATING>***</RATING>
+  </CD>  
+  <CD>    
+    <TITLE>Modern Sounds in Country and Western Music</TITLE>
+    <ARTIST>
+      <NAME>Charles, Ray</NAME>
+      <TYPE>Artist</TYPE>
+    </ARTIST>
+    <PRODUCER>Ray Charles, Sid Feller</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>ABC Paramount</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1963</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Oar</TITLE>
+    <ARTIST>
+      <NAME>Spence, Alexander 'Skip'</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Alexander 'Skip' Spence</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Blue</TITLE>
+    <ARTIST>
+      <NAME>Mitchell, Joni</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Joni Mitchell</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Folk rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1971</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Court and Spark</TITLE>
+    <ARTIST>
+      <NAME>Mitchell, Joni</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Joni Mitchell</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Folk rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Asylum</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1974</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>    
+    <TITLE>The Hissing of Summer Lawns</TITLE>
+    <ARTIST>
+      <NAME>Mitchell, Joni</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Joni Mitchell</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Folk rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Asylum</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1975</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Wild is The Wind</TITLE>
+    <ARTIST>
+      <NAME>Simone, Nina</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Hal Mooney</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Jazz</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Philips</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1966</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Nina Simone and Piano</TITLE>
+    <ARTIST>
+      <NAME>Simone, Nina</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Stroud Productions</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Jazz</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Philips</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>The Boatman's Call</TITLE>
+    <ARTIST>
+      <NAME>Nick Cave and The Badseeds</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Flood, Nick Cave and the Bad Seeds</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Mute/Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1997</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Grace</TITLE>
+    <ARTIST>
+      <NAME>Buckley, Jeff</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Jeff Buckley, Andy Wallace</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>1994</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Poses</TITLE>
+    <ARTIST>
+      <NAME>Wainwright, Rufus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Pierre Marchand, Greg Wells, Alex Gifford, Ethan Johns, Damian LeGassick</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock/Pop</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>DreamWorks</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>2001</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Want One</TITLE>
+    <ARTIST>
+      <NAME>Wainwright, Rufus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Marius de Vries</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock/Pop</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>DreamWorks</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>2003</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>    
+    <TITLE>Want Two</TITLE>
+    <ARTIST>
+      <NAME>Wainwright, Rufus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Marius de Vries, Rufus Wainwright</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock/Pop</GENRE>   
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Geffen</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>    
+    <YEAR>2004</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Real Life</TITLE>
+    <ARTIST>
+      <NAME>Joan as Policewoman</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bryce Goggin, Joan Wasser</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Rock/Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reveal</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2006</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>To Survive</TITLE>
+    <ARTIST>
+      <NAME>Joan as Policewoman</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bryce Goggin, Joan Wasser</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Rock/Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reveal</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2008</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Get Lifted</TITLE>
+    <ARTIST>
+      <NAME>John Legend</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Kanye West, John Legend</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>R'n'B</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2004</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Love</TITLE>
+    <ARTIST>
+      <NAME>Love</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Mark Abramson, Jac Holzman</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Psychedelic Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Elektra</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1966</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Da Capo</TITLE>
+    <ARTIST>
+      <NAME>Love</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul Rothchild, Jac Holzman</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Psychedelic Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Elektra</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1966</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Forever Changes</TITLE>
+    <ARTIST>
+      <NAME>Love</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Bruce Botnik, Arthur Lee</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Psychedelic Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Elektra</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1967</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Fly or Die</TITLE>
+    <ARTIST>
+      <NAME>N.E.R.D</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>The Neptunes</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>R'n'B</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Star Trak, Virgin</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2004</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Ocean Rain</TITLE>
+    <ARTIST>
+      <NAME>Echo and The Bunnymen</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Echo and the Bunnymen, Gil Norton, Henri Loustau</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Korova</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1984</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Fleetwood Mac (1975)</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Fleetwood Mac and Keith Olsen</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK/USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1975</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Rumours</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Fleetwood Mac, Ken Caillat andRichard Dashut</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK/USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Mirage</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Fleetwood Mac, Ken Caillat and Richard Dashut</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK/USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1982</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Tango in The Night</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Lindsey Buckingham, Richard Dashut</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK/USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1987</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Fleetwood Mac (1968)</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Mike Vernon</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Blue Horizon</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Mr Wonderful</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Mike Vernon</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Blue Horizon</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Then Play On</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Fleetwood Mac</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Blue Horizon</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>  
+  <CD>
+    <TITLE>The Pious Bird of Good Omen (compilation album)</TITLE>
+    <ARTIST>
+      <NAME>Fleetwood Mac</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Mike Vernon</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Blue Horizon</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Dig Your Own Hole</TITLE>
+    <ARTIST>
+      <NAME>Chemical Brothers, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Tom Rowlands Ed Simons</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Dance/Electronica</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Virgin, Freestyle Dust</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1997</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Screamadelica</TITLE>
+    <ARTIST>
+      <NAME>Primal Scream</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>The Orb, Hypnotone, Andrew Weatherall, Hugo Nicolson, Jimmy Miller</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie/Dance</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Creation</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1991</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Give Out But Don't Give Up</TITLE>
+    <ARTIST>
+      <NAME>Primal Scream</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bianco, George Clinton, Tom Dowd, George Drakoulias</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie/Dance</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Creation</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1994</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Deserter's Songs</TITLE>
+    <ARTIST>
+      <NAME>Mercury Rev</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Dave Fridmann, Jonathan Donahue</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Alternative</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>V2 Records</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1998</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>All Is Dream</TITLE>
+    <ARTIST>
+      <NAME>Mercury Rev</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Dave Fridmann, Grasshopper, Jonathan Donahue</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Alternative</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>V2 Records</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2001</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Miles Smiles</TITLE>
+    <ARTIST>
+      <NAME>Miles Davis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1967</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Kind of Blue</TITLE>
+    <ARTIST>
+      <NAME>Miles Davis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero, Irving Townsend</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1959</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Bitches Brew</TITLE>
+    <ARTIST>
+      <NAME>Miles Davis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1970</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>In a Silent Way</TITLE>
+    <ARTIST>
+      <NAME>Miles Davis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>On The Corner</TITLE>
+    <ARTIST>
+      <NAME>Miles Davis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1972</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Jack Johnson</TITLE>
+    <ARTIST>
+      <NAME>Miles Davis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1971</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>A Love Supreme</TITLE>
+    <ARTIST>
+      <NAME>John Coltrane</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Thiele</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Impulse</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1965</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>My Favourite Things</TITLE>
+    <ARTIST>
+      <NAME>John Coltrane</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Nesuhi Ertegün</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1961</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Olé Coltrane</TITLE>
+    <ARTIST>
+      <NAME>John Coltrane</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Nesuhi Ertegün</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1961</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Coltrane Plays the Blues</TITLE>
+    <ARTIST>
+      <NAME>John Coltrane</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Nesuhi Ertegün</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1962</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Head Hunters</TITLE>
+    <ARTIST>
+      <NAME>Herbie Hancock</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Herbie Hancock, David Rubinson</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1973</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Sextant</TITLE>
+    <ARTIST>
+      <NAME>Herbie Hancock</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Rubinson</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1973</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Future 2 Future</TITLE>
+    <ARTIST>
+      <NAME>Herbie Hancock</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Herbie Hancock</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Dance</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Transparent, Columbia (Japan)</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2001</YEAR>
+    <RATING>****</RATING>
+  </CD>  
+  <CD>
+    <TITLE>Saxophone Colossus</TITLE>
+    <ARTIST>
+      <NAME>Sonny Rollins</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Rudy Van Gelder, Bob Weinstock</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Prestige</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1956</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Brilliant Corners</TITLE>
+    <ARTIST>
+      <NAME>Thelonious Monk</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Orrin Keepnews</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Riverside</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1957</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Ellington Uptown</TITLE>
+    <ARTIST>
+      <NAME>Duke Ellington</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>N/A</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1952</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Black, Brown and Beige</TITLE>
+    <ARTIST>
+      <NAME>Duke Ellington</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Irving Townsend</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1958</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Such Sweet Thunder</TITLE>
+    <ARTIST>
+      <NAME>Duke Ellington</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Irving Townsend</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1957</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Anatomy of a Murder</TITLE>
+    <ARTIST>
+      <NAME>Duke Ellington (featuring Mahalia Jackson)</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Irving Townsend</PRODUCER>
+    <GENDER>Male,Female</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1958</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>First Time! The Count Meets The Duke</TITLE>
+    <ARTIST>
+      <NAME>Duke Ellington (featuring Mahalia Jackson)</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Irving Townsend</PRODUCER>
+    <GENDER>Male,Female</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1961</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Greatest</TITLE>
+    <ARTIST>
+      <NAME>Cat Power</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Stuart Sikes</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Indie Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Matador</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2006</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Low</TITLE>
+    <ARTIST>
+      <NAME>Bowie, David</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bowie, Tony Visconti</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Art-Rock/Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Heroes</TITLE>
+    <ARTIST>
+      <NAME>Bowie, David</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bowie, Tony Visconti</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Art-Rock/Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Rise and Fall of Ziggy Stardust and The Spiders From Mars</TITLE>
+    <ARTIST>
+      <NAME>Bowie, David</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bowie, Tony Visconti</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Art-Rock/Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Rise and Fall of Ziggy Stardust and The Spiders From Mars</TITLE>
+    <ARTIST>
+      <NAME>Bowie, David</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bowie, Ken Scott</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1972</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Hunky Dory</TITLE>
+    <ARTIST>
+      <NAME>Bowie, David</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bowie, Ken Scott</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1971</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>John Lennon/Plastic Ono Band</TITLE>
+    <ARTIST>
+      <NAME>Lennon, John</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Lennon, Yoko Ono and Phil Spector</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Apple</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1970</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Imagine</TITLE>
+    <ARTIST>
+      <NAME>Lennon, John</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Lennon, Yoko Ono and Phil Spector</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Apple</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1971</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Paul Simon</TITLE>
+    <ARTIST>
+      <NAME>Simon, Paul</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Roy Halee, Paul Simon</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia, Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1972</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Graceland</TITLE>
+    <ARTIST>
+      <NAME>Simon, Paul</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul Simon</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1986</YEAR>
+    <RATING>*****</RATING>
+  </CD>  
+  <CD>
+    <TITLE>The Rhythm of the Saints</TITLE>
+    <ARTIST>
+      <NAME>Simon, Paul</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul Simon</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1990</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Surprise</TITLE>
+    <ARTIST>
+      <NAME>Simon, Paul</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul Simon</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2006</YEAR>
+    <RATING>***</RATING>
+  </CD>  
+  <CD>
+    <TITLE>Bookends</TITLE>
+    <ARTIST>
+      <NAME>Simon and Garfunkel</NAME>
+      <TYPE>Duo</TYPE>
+    </ARTIST>
+    <PRODUCER>Simon and Garfunkel, Roy Halee</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Bridge Over Troubled Water</TITLE>
+    <ARTIST>
+      <NAME>Simon and Garfunkel</NAME>
+      <TYPE>Duo</TYPE>
+    </ARTIST>
+    <PRODUCER>Simon and Garfunkel, Roy Halee</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1970</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Scott</TITLE>
+    <ARTIST>
+      <NAME>Walker, Scott</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Franz</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Philips</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1967</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Scott 2</TITLE>
+    <ARTIST>
+      <NAME>Walker, Scott</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Franz</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Philips</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Scott 3</TITLE>
+    <ARTIST>
+      <NAME>Walker, Scott</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Franz</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Philips</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Scott 4</TITLE>
+    <ARTIST>
+      <NAME>Walker, Scott</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Franz</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Philips</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Bert Jansch</TITLE>
+    <ARTIST>
+      <NAME>Jansch, Bert</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bill Leader</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Transatlantic</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1965</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>It Don't Bother Me</TITLE>
+    <ARTIST>
+      <NAME>Jansch, Bert</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Nathan Joseph, Bill Leader</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Transatlantic</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1965</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Astral Weeks</TITLE>
+    <ARTIST>
+      <NAME>Morrison, Van</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Lewis Merenstein</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk-Rock</GENRE>
+    <COUNTRY>Ireland</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros.</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Hard Nose The Highway</TITLE>
+    <ARTIST>
+      <NAME>Morrison, Van</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Van Morrison</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk-Rock</GENRE>
+    <COUNTRY>Ireland</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros.</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1973</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Soul Mining</TITLE>
+    <ARTIST>
+      <NAME>The, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul Hardiman, Matt Johnson</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Post-Punk/Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1983</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>Mind Bomb</TITLE>
+    <ARTIST>
+      <NAME>The, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Warne Livesey, Roli Mosimann and Matt Johnson</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Alternative</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Epic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1989</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Dusk</TITLE>
+    <ARTIST>
+      <NAME>The, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Matt Johnson and Bruce Lampcov</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Alternative</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Sony</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1993</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Sign O The Times</TITLE>
+    <ARTIST>
+      <NAME>Prince</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Prince</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Paisley Park, Warner Bros.</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1987</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>McCartney</TITLE>
+    <ARTIST>
+      <NAME>McCartney, Paul</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul McCartney</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Apple</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1970</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Band on The Run</TITLE>
+    <ARTIST>
+      <NAME>Paul McCartney and Wings</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Paul McCartney</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Apple</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1973</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Songs of Leonard Cohen</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Simon</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1967</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Songs From a Room</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Johnston</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>New Skin for the Old Ceremony</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Leonard Cohen, John Lissauer</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1974</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Death of a Ladies' Man</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Phil Spector</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Various Positions</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Lissauer</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1984</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Various Positions</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Lissauer</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1984</YEAR>
+    <RATING>*****</RATING>
+  </CD> 
+  <CD>
+    <TITLE>I'm Your Man</TITLE>
+    <ARTIST>
+      <NAME>Cohen, Leonard</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Leonard Cohen, Roscoe Beck, Jean-Michel Reusser and Michel Robidoux</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1988</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Surrealistic Pillow</TITLE>
+    <ARTIST>
+      <NAME>Jefferson Airplane</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Rick Jarrard</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Psychedelic Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>RCA Victor</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1967</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Shaft</TITLE>
+    <ARTIST>
+      <NAME>Hayes, Isaac</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Rick Jarrard</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Enterprise (Stax)</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1971</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Otis Blue</TITLE>
+    <ARTIST>
+      <NAME>Redding, Otis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Jim Stewart, Isaac Hayes, David Porter</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Stax</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1965</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Complete and Unbelievable: The Otis Redding Dictionary of Soul</TITLE>
+    <ARTIST>
+      <NAME>Redding, Otis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Jim Stewart, Booker T. and the MG's, Isaac Hayes, David Porter</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Stax</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1966</YEAR>
+    <RATING>****</RATING>
+  </CD>  
+  <CD>
+    <TITLE>Complete and Unbelievable: The Otis Redding Dictionary of Soul</TITLE>
+    <ARTIST>
+      <NAME>Redding, Otis</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Jim Stewart, Booker T. and the MG's, Isaac Hayes, David Porter</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Stax</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1966</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Natch'l Blues</TITLE>
+    <ARTIST>
+      <NAME>Taj Mahal</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Rubinson</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Blues</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Giant Step/De Ole Folks at Home</TITLE>
+    <ARTIST>
+      <NAME>Taj Mahal</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Rubinson</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Blues</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Swordfishtrombones</TITLE>
+    <ARTIST>
+      <NAME>Tom Waits</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Tom Waits</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Island</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1983</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Swordfishtrombones</TITLE>
+    <ARTIST>
+      <NAME>Tom Waits</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Tom Waits</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Island</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1983</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Great Adventures of Slick Rick</TITLE>
+    <ARTIST>
+      <NAME>Slick Rick</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Jam Master Jay, Slick Rick and The Bomb Squad</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Hip Hop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Def Jam/Columbia/CBS</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1988</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>Mingus Ah Um</TITLE>
+    <ARTIST>
+      <NAME>Charles Mingus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Teo Macero</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1959</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Oh Yeah</TITLE>
+    <ARTIST>
+      <NAME>Charles Mingus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Nesuhi Ertegün</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1962</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Black Saint and the Sinner Lady</TITLE>
+    <ARTIST>
+      <NAME>Charles Mingus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Thiele</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Impulse</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1963</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Black Saint and the Sinner Lady</TITLE>
+    <ARTIST>
+      <NAME>Charles Mingus</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Bob Thiele</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Impulse</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1963</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Live at The Apollo</TITLE>
+    <ARTIST>
+      <NAME>James Brown</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>James Brown</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Jazz</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>King</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1963</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Mothership Connection</TITLE>
+    <ARTIST>
+      <NAME>Parliament</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>George Clinton</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Soul/Funk</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Casablanca</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1975</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Sail Away</TITLE>
+    <ARTIST>
+      <NAME>Newman, Randy</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Lenny Waronker, Russ Titelman</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1972</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Good Old Boys</TITLE>
+    <ARTIST>
+      <NAME>Newman, Randy</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Lenny Waronker, Russ Titelman</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1974</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Little Criminals</TITLE>
+    <ARTIST>
+      <NAME>Newman, Randy</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Lenny Waronker, Russ Titelman</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Reprise</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Harps and Angels</TITLE>
+    <ARTIST>
+      <NAME>Newman, Randy</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Mitchell Froom, Lenny Waronker</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Nonesuch</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2008</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>Parklife</TITLE>
+    <ARTIST>
+      <NAME>Blur</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Stephen Street, Stephen Hague, John Smith and Blur</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock/Pop</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Food</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1994</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Different Class</TITLE>
+    <ARTIST>
+      <NAME>Pulp</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Chris Thomas</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock/Pop</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Island</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1995</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Teen Dream</TITLE>
+    <ARTIST>
+      <NAME>Beach House</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Chris Thomas</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Dream Pop/Indie</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Bella Union</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2010</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Nevermind</TITLE>
+    <ARTIST>
+      <NAME>Nirvana</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Butch Vig</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>David Geffen</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1991</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>In Utero</TITLE>
+    <ARTIST>
+      <NAME>Nirvana</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Steve Albini, Scott Litt</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>David Geffen</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1993</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>MTV Unplugged in New York</TITLE>
+    <ARTIST>
+      <NAME>Nirvana</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>	Alex Coletti, Scott Litt, Nirvana</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>David Geffen</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1994</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Boys Outside</TITLE>
+    <ARTIST>
+      <NAME>Mason, Steve</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Steve Mason, Richard X</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Double Six</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2010</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Glory Hope Mountain</TITLE>
+    <ARTIST>
+      <NAME>The Acorn</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Jarrett Bartlett</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Indie/Folk Rock</GENRE>
+    <COUNTRY>Canada</COUNTRY>
+    <COMPANY>
+      <NAME>Paper Bag</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2007</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Seasons of My Soul</TITLE>
+    <ARTIST>
+      <NAME>Rumer</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Steve Brown</PRODUCER>
+    <GENDER>Female</GENDER>
+    <GENRE>Pop</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Atlantic</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2010</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>Something Else</TITLE>
+    <ARTIST>
+      <NAME>Kinks, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Shel Talmy, Ray Davies</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Pye</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1967</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Face to Face</TITLE>
+    <ARTIST>
+      <NAME>Kinks, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Shel Talmy</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Pye</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1966</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Kinks Are the Village Green Preservation Society</TITLE>
+    <ARTIST>
+      <NAME>Kinks, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Ray Davies</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Pye</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1968</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Arthur (Or the Decline and Fall of the British Empire)</TITLE>
+    <ARTIST>
+      <NAME>Kinks, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Ray Davies</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Pye</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Muswell Hillbillies</TITLE>
+    <ARTIST>
+      <NAME>Kinks, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Ray Davies</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1971</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Till the Sun Turns Black</TITLE>
+    <ARTIST>
+      <NAME>LaMontagne, Ray</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Ethan Johns</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>2006</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Black on Both Sides</TITLE>
+    <ARTIST>
+      <NAME>Mos Def</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Mos Def</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Hip Hop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Rawkus, Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1999</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Licensed to Ill</TITLE>
+    <ARTIST>
+      <NAME>Beastie Boys, The</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Rick Rubin, Beastie Boys</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Hip Hop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Rawkus, Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1999</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Jurassic 5 LP</TITLE>
+    <ARTIST>
+      <NAME>Jurassic 5</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Cut Chemist, DJ Nu-Mark</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Hip Hop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Pan</NAME>
+      <TYPE>Not sure</TYPE>
+    </COMPANY>
+    <YEAR>1998</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Step in The Arena</TITLE>
+    <ARTIST>
+      <NAME>Gang Starr</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Cut Chemist, DJ Nu-Mark</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Hip Hop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Chrysalis/EMI Records</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1991</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Yo! Bum Rush the Show</TITLE>
+    <ARTIST>
+      <NAME>Public Enemy</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Rick Rubin (exec.), Bill Stephney, The Bomb Squad</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Hip Hop</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Def Jam, Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1987</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Leftism</TITLE>
+    <ARTIST>
+      <NAME>Leftfield</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Leftfield</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Dance</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Hard Hands, Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1995</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Lust For Life</TITLE>
+    <ARTIST>
+      <NAME>Iggy Pop</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>David Bowie, Iggy Pop and Colin Thurston</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1977</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>The Stooges</TITLE>
+    <ARTIST>
+      <NAME>Stooges, The</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>John Cale</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Elektra</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1969</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>And the Hits just Keep on Coming</TITLE>
+    <ARTIST>
+      <NAME>Nesmith, Michael</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Michael Nesmith</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Country Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1972</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Pretty Much Your Standard Ranch Stash</TITLE>
+    <ARTIST>
+      <NAME>Nesmith, Michael</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Michael Nesmith</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Country Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>RCA</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1973</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+  <CD>
+    <TITLE>Elton John</TITLE>
+    <ARTIST>
+      <NAME>John, Elton</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Gus Dudgeon</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>DJM</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1970</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>Blues Breakers with Eric Clapton</TITLE>
+    <ARTIST>
+      <NAME>John Mayall and the Blues Breakers</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Mike Vernon</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock/Blues Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Decca</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1966</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>Maxinquaye</TITLE>
+    <ARTIST>
+      <NAME>Tricky</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Howie B, Kevin Petrie, Mark Saunders and Tricky</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Trip Hop/Dance</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>4th and B'way</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1995</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Pre-Millennium Tension</TITLE>
+    <ARTIST>
+      <NAME>Tricky</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Tricky</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Trip Hop/Dance</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Island/PolyGram Records</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1999</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Calling Card</TITLE>
+    <ARTIST>
+      <NAME>Rory Gallagher</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Roger Glover, Rory Gallagher</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock/Blues Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Chrysalis</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1976</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Deuce</TITLE>
+    <ARTIST>
+      <NAME>Rory Gallagher</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Rory Gallagher</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Rock/Blues Rock</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Polydor</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1971</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Buena Vista Social Club</TITLE>
+    <ARTIST>
+      <NAME>Buena Vista Social Club</NAME>
+      <TYPE>Group</TYPE>
+    </ARTIST>
+    <PRODUCER>Ry Cooder</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>World</GENRE>
+    <COUNTRY>Cuba/USA</COUNTRY>
+    <COMPANY>
+      <NAME>World Circuit, Nonesuch</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1997</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Savane</TITLE>
+    <ARTIST>
+      <NAME>Ali Farka Touré</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Ry Cooder</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>World</GENRE>
+    <COUNTRY>Mali</COUNTRY>
+    <COMPANY>
+      <NAME>World Circuit, Nonesuch</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1997</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Zombie</TITLE>
+    <ARTIST>
+      <NAME>Fela Kuti</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Fela Kuti</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>World</GENRE>
+    <COUNTRY>Nigeria</COUNTRY>
+    <COMPANY>
+      <NAME>Coconut</NAME>
+      <TYPE>Not sure</TYPE>
+    </COMPANY>
+    <YEAR>1976</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Expensive Shit</TITLE>
+    <ARTIST>
+      <NAME>Fela Kuti</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Fela Kuti</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>World</GENRE>
+    <COUNTRY>Nigeria</COUNTRY>
+    <COMPANY>
+      <NAME>Sounds Workshop Editions, Makossa</NAME>
+      <TYPE>Not sure</TYPE>
+    </COMPANY>
+    <YEAR>1975</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Magical World of The Strands</TITLE>
+    <ARTIST>
+      <NAME>Michael Head and The Strands</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Michael Head with Mark Coyle</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock, Indie</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Megaphone Music</NAME>
+      <TYPE>Indie</TYPE>
+    </COMPANY>
+    <YEAR>1997</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Fleet Foxes</TITLE>
+    <ARTIST>
+      <NAME>Fleet Foxes</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Phil Ek</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock/Folk Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Bella Union</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2008</YEAR>
+    <RATING>****</RATING>
+  </CD>
+  <CD>
+    <TITLE>Daydream Nation</TITLE>
+    <ARTIST>
+      <NAME>Sonic Youth</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Nick Sansano, Sonic Youth</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Alternative</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Enigma</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>1988</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Birds of Fire</TITLE>
+    <ARTIST>
+      <NAME>Mahavishnu Orchestra</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Mahavishnu Orchestra</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Jazz fusion</GENRE>
+    <COUNTRY>UK/USA</COUNTRY>
+    <COMPANY>
+      <NAME>Columbia</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1973</YEAR>
+    <RATING>**</RATING>
+  </CD>
+  <CD>
+    <TITLE>New Adventures In Hi-Fi</TITLE>
+    <ARTIST>
+      <NAME>REM</NAME>
+      <TYPE>Band</TYPE>
+    </ARTIST>
+    <PRODUCER>Scott Litt and R.E.M.</PRODUCER>
+    <GENDER>N/A</GENDER>
+    <GENRE>Rock</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>Warner Bros</NAME>
+      <TYPE>Major</TYPE>
+    </COMPANY>
+    <YEAR>1996</YEAR>
+    <RATING>***</RATING>
+  </CD>
+  <CD>
+    <TITLE>Mister Little Willie John</TITLE>
+    <ARTIST>
+      <NAME>Little Willie John</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Not sure</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Soul</GENRE>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>
+      <NAME>King</NAME>
+      <TYPE>Not sure</TYPE>
+    </COMPANY>
+    <YEAR>1960</YEAR>
+    <RATING>*****</RATING>
+  </CD>
+  <CD>
+    <TITLE>There is Love in You</TITLE>
+    <ARTIST>
+      <NAME>Four Tet</NAME>
+      <TYPE>Solo</TYPE>
+    </ARTIST>
+    <PRODUCER>Kieran Hebden</PRODUCER>
+    <GENDER>Male</GENDER>
+    <GENRE>Dance</GENRE>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>
+      <NAME>Domino</NAME>
+      <TYPE>Independent</TYPE>
+    </COMPANY>
+    <YEAR>2010</YEAR>
+    <RATING>N/A</RATING>
+  </CD>
+</CATALOG>

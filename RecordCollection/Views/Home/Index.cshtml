@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2 class="h2-small">Menu</h2>
+            <div class="menu-wrapper">
+                <ul class="vertical-submenu">
+                    <li>@Html.ActionLink("Albums", "Index", "Cd", new { area = "" }, new {  })</li>
+                    <li>@Html.ActionLink("Albums by Rating", "Rating", "Chart", new { area = "" }, new { })</li>
+                    <li>@Html.ActionLink("Albums by Decade", "Decade", "Chart", new { area = "" }, new { })</li>
+                    @*<li>@Html.ActionLink("Charts", "Index", "Chart", new { area = "" }, new { })</li>*@
+                    <li>@Html.ActionLink("Artists", "Index", "Artist", new { area = "" }, new { })</li>
+                    <li>@Html.ActionLink("Producers", "Index", "Producer", new { area = "" }, new { })</li>
+                    <li>@Html.ActionLink("Quiz", "Index", "Question", new { area = "" }, new { })</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementsByClassName('sitemap-container')[0].style.display = "none";
+</script>

@@ -1,0 +1,104 @@
+﻿@model RecordCollection.Models.Cd
+
+@{
+    ViewBag.Title = "View";
+}
+
+<div class="container body-content">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>View</h2>
+
+            <div>
+                <h4>Cd</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.AlbumTitle)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.AlbumTitle)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ArtistName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ArtistName)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ArtistType)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.ArtistType)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Producer)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Producer)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Gender)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Gender)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Country)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Country)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.RecordCompanyName)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.RecordCompanyName)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.RecordCompanyType)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.RecordCompanyType)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.YearOfRelease)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.YearOfRelease)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Rating)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Rating)
+                    </dd>
+
+                </dl>
+            </div>
+        </div>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>
