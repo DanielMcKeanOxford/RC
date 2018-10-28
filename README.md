@@ -1,1 +1,2 @@
 # RecordCollection
+When you open the solution in Visual Studio, it might complain that the project references NuGet packages that are missing on your computer.  In order to rectify this, click 'Tools' > 'NuGet Package Manager' > 'Manage NuGet Packages For Solution'.  You should then see a message with a yellow background saying, "Click to restore from your online package sources".  Follow this instruction and click "Restore".
